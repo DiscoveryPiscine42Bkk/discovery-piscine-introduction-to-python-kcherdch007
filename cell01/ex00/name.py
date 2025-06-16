@@ -1,3 +1,3 @@
-print('krittin cherdchai')
-first_name = input ("krittin")
-last_name = input ("cherdchai")
+first_name = "krittin"
+last_name = "cherdchai"
+print(first_name+" "+last_name)
