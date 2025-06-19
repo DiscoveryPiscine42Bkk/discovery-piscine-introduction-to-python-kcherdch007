@@ -10,4 +10,3 @@ else:
         print("none")
     else:
         print(count)
-        
